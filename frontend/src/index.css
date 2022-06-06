@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family:  'Cairo', sans-serif;
+}
+
+
+main {
+  min-height:80vh;
+}
